@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Remi and I'm a ..., from Olsztyn, Poland</p>
+<p align="left">My name is Remi and I'm a Computer Science, from Olsztyn, Poland</p>
 
 ###
 
