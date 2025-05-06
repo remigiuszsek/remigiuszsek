@@ -19,7 +19,7 @@
 🎯 Seeking a Machine Learning Internship</p>
 <br>
 <br>
-💼 Contact me via [my LinkedIn profile](https://www.linkedin.com/in/remisek/)
+💼 Contact me via <a href="https://www.linkedin.com/in/remisek/">my LinkedIn profile</a>
 
 ###
 
