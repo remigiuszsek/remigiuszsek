@@ -1,20 +1,26 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hi! 👋</h1>
 
 ###
 
-<p align="left">My name is Remi and I'm a Computer Science, from Olsztyn, Poland</p>
+<p align="left">I'm Remi, a Computer Science student at the University of Warmia and Mazury in Olsztyn, passionate about artificial intelligence and machine learning.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">
+🧙‍♂️ President of Czarna Magia Student Artificial Intelligence Society
+<br>
+<br>
+🛶 Organizer of CAIAK: Conference, AI and Kayaking 2025
+<br>
+<br>
+📚 Currently exploring Generative Adversarial Networks (GANs)
+<br>
+<br>
+🎯 Seeking a Machine Learning Internship</p>
 
 ###
 
-<p align="left">✨ President of Czarna Magia Student Artificial Intelligence Society<br>🎲 Organizer of the second edition of CAIAK: Conference, AI and Kayaking<br>📚 Currently learning GANs<br>🎯 Goals: Machine Learning Internship</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Technologies</h2>
 
 ###
 
