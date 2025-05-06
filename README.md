@@ -7,19 +7,20 @@
 ###
 
 <p align="left">
-🧙‍♂️ President of Czarna Magia Student Artificial Intelligence Society
-<br>
-<br>
-🛶 Organizer of CAIAK: Conference, AI and Kayaking 2025
-<br>
-<br>
-📚 Currently exploring Generative Adversarial Networks (GANs)
-<br>
-<br>
-🎯 Seeking a Machine Learning Internship</p>
-<br>
-<br>
-💼 Contact me via <a href="https://www.linkedin.com/in/remisek/">my LinkedIn profile</a>
+  🧙‍♂️ President of <a href="https://www.linkedin.com/company/101266519">Czarna Magia Student Artificial Intelligence Society</a>
+  <br>
+  <br>
+  🛶 Organizer of <a href="https://www.linkedin.com/company/106970398">CAIAK: Conference, AI and Kayaking</a>
+  <br>
+  <br>
+  📚 Currently exploring Generative Adversarial Networks (GANs)
+  <br>
+  <br>
+  🎯 Seeking a Machine Learning Internship
+  <br>
+  <br>
+  💼 Contact me via <a href="https://www.linkedin.com/in/remisek/">my LinkedIn profile</a>
+</p>
 
 ###
 
