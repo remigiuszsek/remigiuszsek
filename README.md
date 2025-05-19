@@ -16,7 +16,7 @@
   📚 Currently exploring Generative Adversarial Networks (GANs)
   <br>
   <br>
-  🎯 Seeking a Machine Learning Internship
+  🎯 Looking for Machine Learning Internship
   <br>
   <br>
   💼 Contact me via <a href="https://www.linkedin.com/in/remisek/">my LinkedIn profile</a>
